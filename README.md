@@ -34,9 +34,9 @@ pip install pandas numpy geopandas shapely matplotlib
 ## **📌 How to Use**  
 
 ### **1️⃣ Run the Script**  
-Ensure Python is installed, then run:  
-```bash
-python flood_history_extraction.py
+Run:  
+```
+NHA_verification.IPYNB in Jupyter Notebooks
 ```
 
 ### **2️⃣ Inputs**  
