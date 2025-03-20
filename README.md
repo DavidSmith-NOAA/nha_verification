@@ -1,4 +1,4 @@
-Sure! Here’s a **README** that you can copy and paste into a text file. It explains the script's purpose, dependencies, usage, and output details.
+
 
 ---
 
